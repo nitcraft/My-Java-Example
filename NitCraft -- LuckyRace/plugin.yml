@@ -1,0 +1,15 @@
+name: LuckyRace
+version: 3.1.0
+description: LuckyRace
+author: NitCraft - OldTimes
+main: me.nitcraft.luckyrace.LuckyRace
+depend: [NitCore]
+
+commands:
+  start:
+    description: Start the Game
+    usage: /start
+  build:
+  skip:
+  setspawn:
+  setlocation:
